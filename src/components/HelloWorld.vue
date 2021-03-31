@@ -29,6 +29,7 @@
     </ul>
     <h3>Etc</h3>
     <span>ready</span>
+    <br/> please wait!!!
   </div>
 </template>
 

@@ -35,7 +35,8 @@
 
 <script>
 export default {
-  name: 'HelloWorld Vue',
+  name: 'HelloWorld Vue.js!!!',
+  title: 'Vue Hello',
   props: {
     msg: String
   }
@@ -59,3 +60,4 @@ a {
   color: #42b983;
 }
 </style>
+dasf

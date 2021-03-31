@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld Vue.js',
+  name: 'HelloWorld Vue.js!!!',
   title: 'Vue Hello',
   props: {
     msg: String
